@@ -1,6 +1,7 @@
 # GPT-4o Proxy Translator
 
-##這啥?
+## 這啥?
+
 一個最小可行 Flask API Proxy，使用 OpenAI API 進行字幕翻譯。
 
 ## Features

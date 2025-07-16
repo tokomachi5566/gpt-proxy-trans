@@ -12,8 +12,10 @@
 
 ## 怎麼用?
 
-1. 先到 OpenAI 申請 API Key，把它放到 key.env
-
+1. 申請 OpenAI API Key  ，把它放到 key.env
+    ```
+    OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxx
+    ```
 2. 安裝套件（flask、.env、openai）
 
 3. 啟動 proxy
@@ -27,8 +29,7 @@
 
 ## 注意事項
 
-- key.env **勿上傳 github**，寫在 .gitignore 裡。
-- 用於學習和測試用途，沒有任何商業包裝。
+- 用於學習和測試用途。
 
 ---
 
